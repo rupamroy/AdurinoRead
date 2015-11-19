@@ -1,7 +1,5 @@
-# Angular-Boilerplate
-A test repository to clone and start writing your test angular code
-
-Make sure you have npm and bower installed in your shell (Node Cmd, Powershell or GIT Bash)
+# Adruino Read
+Work done for the Adruino read
 
 ##Steps to build
 
@@ -10,5 +8,4 @@ Make sure you have npm and bower installed in your shell (Node Cmd, Powershell o
   bower install
   
 ##Steps to Run
-
- PORT=1234 node ./src/server/server.js
+node ./src/server/server.js
